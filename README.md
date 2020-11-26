@@ -11,4 +11,4 @@ AS3935                                  ESP-12E
     VCC                                    3.3V
     GND                                    GND
     
-Slight changes gas been made to stevemarple's library to add a 'calibrate' function   
+Slight changes has been made to stevemarple's library to add a 'calibrate' function   
