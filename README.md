@@ -1,7 +1,9 @@
 # AS3935_I2C
 CJMCU AS3935 Lightning Detector on I2C with ESP8266 NodeMCU ESP-12E
 This code is for ESP8266 and uses the Arduino IDE
-It also uses stevemarple's AS3935.h library
+It also uses stevemarple's AS3935.h library at
+https://github.com/stevemarple/AS3935
+
 The wiring diagram is:
 The wiring is:
 
