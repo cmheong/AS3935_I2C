@@ -7,7 +7,7 @@ https://github.com/stevemarple/AS3935
 The wiring diagram is at:
 https://cmheong.blogspot.com/2020/11/as3935-lightning-detector-with-i2c-and.html
 
-SCL to D1/GPIO5, MISO to D2/GPIO4, and VCC is 3V3.  
+SCL to D1/GPIO5, MISO to D2/GPIO4, INTR to D5/GPIO14 and VCC is 3V3.  
 SI, A0 and A1 on the AS3935 are tied to 3.3V
     
 Slight changes has been made to stevemarple's library to add a 'calibrate' function   
